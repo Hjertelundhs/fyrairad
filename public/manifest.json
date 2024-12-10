@@ -1,0 +1,8 @@
+{
+  "short_name": "Fyra i rad",
+  "name": "Spela fyra i rad",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
